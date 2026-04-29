@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Missing structures from the Nycto Mod",
+    "min_format": 100,
+    "max_format": 101
+  }
+}

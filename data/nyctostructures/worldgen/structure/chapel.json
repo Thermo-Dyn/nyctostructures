@@ -3,6 +3,8 @@
   "biomes": [
     "minecraft:taiga"
   ],
+  "spawn_overrides": {
+  },
   "step": "surface_structures",
   "terrain_adaptation": "beard_thin",
   "start_pool": "nyctostructures:chapel",

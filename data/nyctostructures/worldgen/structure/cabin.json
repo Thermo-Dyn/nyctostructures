@@ -20,10 +20,10 @@
   "terrain_adaptation": "beard_thin",
   "start_pool": "nyctostructures:cabin",
   "size": 4,
-  "start_height": {
-    "absolute": 2
-  },
   "project_start_to_heightmap": "WORLD_SURFACE",
+  "start_height": {
+    "absolute": -1
+  },
   "max_distance_from_center": 80,
   "use_expansion_hack": false
 }
